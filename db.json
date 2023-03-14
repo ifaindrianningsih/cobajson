@@ -24,7 +24,8 @@
   "organisasi": [
     {
       "id": 1,
-      "nama": "HMTI"
+      "nama": "HMTI",
+      "sekretariat": "Gedung AS"
     }
   ],
   "profile": {
