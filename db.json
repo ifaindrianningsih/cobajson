@@ -21,11 +21,10 @@
       "status": "Aktif"
     }
   ],
-  "comments": [
+  "organisasi": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nama": "HMTI"
     }
   ],
   "profile": {
