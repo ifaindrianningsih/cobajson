@@ -12,23 +12,13 @@
     },
     {
       "userId": 1,
-      "id": 1678374351086,
-      "NIM": "2041720007",
-      "nama": "Ifa Indrian Ningsih",
-      "alamat": "Darurejo, Plandaan, Jombang",
-      "hp": "082142958043",
-      "angkatan": "2020",
-      "status": "Aktif"
+      "id": 2,
+      "NIM": 140823453,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
     }
-  ],
-  "organisasi": [
-    {
-      "id": 1,
-      "nama": "HMTI",
-      "sekretariat": "Gedung AS"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
