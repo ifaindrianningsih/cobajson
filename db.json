@@ -20,5 +20,8 @@
       "angkatan": 2014,
       "status": "lulus"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
